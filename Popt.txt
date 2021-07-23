@@ -1,0 +1,62 @@
+======================== Mesh information ========================
+# Grid number
+ 60 60 60
+ 
+================= Reciprocal lattice information =================
+# Part number
+ 10
+
+====================== Material information ======================
+# Material data name
+ No227_FCC_SiO2
+# Material type
+ isotropic
+# Permittivity (inner material)
+ 13.0 0.0 0.0 0.0 13.0 0.0 0.0 0.0 13.0
+ 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+# Permittivity (outer material)
+ 1.0
+# Permeability (inner material)
+ 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0
+ 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+# Permeability (outer material)
+ 1.0
+# Reciprocity (inner material) (must given when bi-isotropic and bi-anisotropic)
+ 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+# Reciprocity (outer material) (must given when bi-isotropic and bi-anisotropic)
+ 0.0
+# Chirality (inner material) (must given when bi-isotropic and bi-anisotropic)
+ 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0
+ 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+# Chirality (outer material) (must given when bi-isotropic and bi-anisotropic)
+ 0
+
+======================= Solver information =======================
+# Desired eigenpair number
+ 10
+# Dimension of Krylov subspace for Lanczos
+ 50
+# Maximum restart number of Lanczos
+ 300
+# Maximum iteration number of linear solver
+ 1000
+
+ ========================== Flag setting ==========================
+# Device
+ 0
+# Printf User Option
+ 0
+# Printf Parameter
+ 0
+# Create Parameter
+ 0 
+# Create B_inout
+ 0
+# Create Wave Vector
+ 0
+# Save Eigen Vector
+ 0
+# Grid nums Max
+ 0 16
+# Sphere/Cylinder radius adjustment
+ 1 0.3

@@ -1,0 +1,1 @@
+int FAME_Parameter_Brillouin_Zone_Point(VERTEX* Vertex, LATTICE Lattice, realCPU* reciprocal_lattice_vector_b);
