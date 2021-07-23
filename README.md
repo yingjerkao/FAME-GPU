@@ -12,9 +12,9 @@ https://sites.google.com/g2.nctu.edu.tw/fame/
 > + set the **CUDADIR** (Line 27).
 > + set the **LAPACKDIR** (Line 35).
 4. Command `make` or `make -j <num>` to compile FAME-GPU. 
-5. If successful, you will see the **Main.out** executable file.
+5. If successful, you will see the **main** executable file.
 6. Before excuting Main.out, user need to set two files: **Popt.txt** and **Material data**.
-7. If all settings are completed, command `./Main.out`, FAME-GPU will start working.
+7. If all settings are completed, command `./main`, FAME-GPU will start working.
 
 ## Popt.txt & Material data Setting ##
 Please go here https://sites.google.com/g2.nctu.edu.tw/fame/downloads/fame-on-gpu
