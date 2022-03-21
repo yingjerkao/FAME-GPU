@@ -2,8 +2,8 @@
 The goal of FAME-GPU is to solve the energy band of photonic crystal and get the accurate information of its energy band as soon as possible. For a better computational efficiency, we implemented the FAME-GPU version, it can get more than a hundred times the efficiency of the CPU.  The design of FAME-GPU  allows scientists to download and use it easily, and users can use it without knowing complicated mathematical models and calculation methods.
 
 ## Website ##
-http://www.njcam.org.cn/fame/index.phtml
-https://sites.google.com/g2.nctu.edu.tw/fame/
+http://www.njcam.org.cn/fame/index.phtml  
+https://sites.google.com/g2.nctu.edu.tw/fame/ 
 
 ## Installation ##
 1. Download **FAME-GPU** form Github.
@@ -18,7 +18,7 @@ https://sites.google.com/g2.nctu.edu.tw/fame/
 7. If all settings are completed, command `./main`, FAME-GPU will start working.
 
 ## Popt.txt & Material data Setting ##
-Please go here http://www.njcam.org.cn/fame/index.phtml
+Please go here http://www.njcam.org.cn/fame/index.phtml  
 or https://sites.google.com/g2.nctu.edu.tw/fame/downloads/fame-on-gpu
 
 ## Support ##
